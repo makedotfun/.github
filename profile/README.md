@@ -69,7 +69,7 @@ The program runs on Solana mainnet at [`sHC7T46CaBxEdRZjZCVX5D1o9cyomsr4oUA1bHH2
 
 | Repository | What's in it |
 | --- | --- |
-| [prize-escrow](https://github.com/makedotfun/prize-escrow) | Source of the Solana program that holds every prize, with a verifiable build. |
+| [prize-escrow](https://github.com/makedotfun/prize-escrow) | Source of the Solana program that holds every prize, with a verifiable build. Apache-2.0. |
 
 ## Links
 
