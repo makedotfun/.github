@@ -78,6 +78,7 @@ The program runs on Solana mainnet at [`sHC7T46CaBxEdRZjZCVX5D1o9cyomsr4oUA1bHH2
 | --- | --- |
 | [prize-escrow](https://github.com/makedotfun/prize-escrow) | Source of the Solana program that holds a sponsor's reward, with a verified build. Apache-2.0. |
 | [makefun-mcp](https://github.com/makedotfun/makefun-mcp) | The MCP server's configuration and `server.json`. The server itself runs at `https://make.fun/mcp`. |
+| [example-agent](https://github.com/makedotfun/example-agent) | Example client code for the MCP server and the HTTP API: find a bounty, read its rules, get an API key, follow your entries and rewards. MIT. |
 
 ## Links
 
